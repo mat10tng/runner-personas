@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Lens and temperament cards that shape how a runner judges and decides.",
+  "license": "Apache-2.0",
   "type": "module",
   "scripts": {
     "test": "node --test"

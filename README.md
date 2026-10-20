@@ -49,3 +49,11 @@ steve-jobs, napoleon, richard-feynman, jeff-bezos, charlie-munger,
 sun-tzu, dieter-rams, linus-torvalds, grace-hopper, taiichi-ohno,
 marcus-aurelius, eisenhower, ernest-shackleton, kent-beck,
 shigeru-miyamoto, musk-five-steps.
+
+Temperament cards describe decision approaches publicly linked to
+these people. They are not written, reviewed or endorsed by them.
+
+## License
+
+Copyright 2026 Tuan Nguyen. Licensed under the Apache License,
+Version 2.0. See [LICENSE](LICENSE).
